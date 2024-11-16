@@ -27,8 +27,6 @@ Full-Stack Developer with over 6 years of experience in designing and developing
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Hamza119612/securePipe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza119612&repo=securePipe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Hamza119612/devops-universal-starter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza119612&repo=devops-universal-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/Hamza119612/securePipe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza119612&repo=securePipe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /> </a>
+<a href="https://github.com/Hamza119612/devops-universal-starter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza119612&repo=devops-universal-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <div width="100%" align="center"><a href="https://github.com/Hamza119612/AI-DevOps-Optimizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza119612&repo=AI-DevOps-Optimizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
